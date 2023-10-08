@@ -1,0 +1,20 @@
+
+# setting the global username
+
+git config --global user.name "akashkumar"
+
+
+# checking for the usename
+
+git config user.name
+
+
+# Checking for the useremail
+
+git config user.email
+
+# Setting the global useremail
+
+git config --global user.email "ak322531@gmail.com"
+
+

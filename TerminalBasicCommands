@@ -1,0 +1,26 @@
+
+# Commands
+
+ ls = ls will list all the files in the current working directory.
+
+ ls -a = this will list all the hidden files in the current directory.
+
+ open . = Open the current working directory.
+
+ ls directory_name = this will list all the files of the given directory.
+
+ pwd = this command will print the path where currently you are working.
+
+  cd = this command will change the directory to a particular directory.
+
+  cd .. = This command will bring you one directory back.
+
+  touch filename1 filename2 .. = this command will create the file the given names.
+
+  mkdir foldername1 foldername2 .. = this command will create the folder of the given name if not exits in the making directory.
+
+  rm filename1 filename2 .. = this command will delete the mentioned file name.
+
+  rm -rf foldername = this command will delete the named directory.
+ 
+  

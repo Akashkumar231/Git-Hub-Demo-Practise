@@ -1,0 +1,28 @@
+
+## Git branch commands.
+
+
+1)   git branch
+
+   this command will show all the branches in your current git repository.
+
+2)   git branch branchName 
+
+   this command will create a branch in your current git repository.
+
+3)   git branch -m newName
+
+   this command will rename the current branch.
+
+4)   git switch branchName
+
+   this command will switch to the given branch name.
+
+5)   git switch -c branchName 
+
+   this command will create the given branch with the given name and switch to that branch.
+
+6)   git checkout branchname 
+
+ 
+   this command will do the same as that of 5th command. 

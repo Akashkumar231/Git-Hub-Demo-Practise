@@ -1,0 +1,7 @@
+# Merging Commands
+
+1)   git merge branchname
+
+   this command will just merge the given branch on which you are there.
+
+2)   

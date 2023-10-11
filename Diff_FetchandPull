@@ -10,3 +10,11 @@ Fetching
 
  Think of it as "please go and get the latest information from Github , but don't screw up
  my working directory".
+
+
+ Pulling 
+
+ git pull is another command we can use to retrieve changes from a remote repository. Unlike fetch, pull actually
+  updaes our Updates our Head Branch with whatever changes are retrieved from the remote.
+
+ "go and download data from Github And immediately update my local repo with those changes"
